@@ -49,8 +49,12 @@
 
 ​	正在录制PHP Laravel基础讲解课程
 
-​	http://my.jikexueyuan.com/zacharyjia/record/
+​	[课程列表](http://my.jikexueyuan.com/zacharyjia/record)
+​
+### 2016年7月至今 北京佳信德润有限公司 PHP研发工程师
 
+​	目前主要负责公司聚合支付平台的开发、调试工作。
+​	
 ## 项目经历
 
 1. 2014年4月-2014年五月 “创青春”创业大赛移动互联网专项赛二等奖 “交大订餐” Android客户端部分
