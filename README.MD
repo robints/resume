@@ -45,16 +45,16 @@
 
 ### 2015年5月至今  极客学院签约布道师
 
-​	录制Android实战开发项目课程9门
+   录制Android实战开发项目课程9门
 
-​	正在录制PHP Laravel基础讲解课程
+   正在录制PHP Laravel基础讲解课程
 
-​	[课程列表](http://my.jikexueyuan.com/zacharyjia/record)
-​
+   [课程列表](http://my.jikexueyuan.com/zacharyjia/record)
+   
 ### 2016年7月至今 北京佳信德润有限公司 PHP研发工程师
 
-​	目前主要负责公司聚合支付平台的开发、调试工作。
-​	
+   灵析团队研发实习生，目前主要负责公司聚合支付平台的开发、调试工作。
+   
 ## 项目经历
 
 1. 2014年4月-2014年五月 “创青春”创业大赛移动互联网专项赛二等奖 “交大订餐” Android客户端部分
@@ -104,5 +104,3 @@
    本项目为一个基于PHP Slim框架的Shadowsocks多账户分享前端，我基于该项目在Digital Ocean云主机上搭建shadowsocks分享网站。
    
    我多次向该项目提交bug报告，并提交了相应的patch修复bug。同时，我基于该项目创建新的分支，增加套餐管理、账单管理等功能。
-   
-   ​
